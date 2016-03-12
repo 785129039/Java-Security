@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2016 CTIM. All rights reserved.
+ */
+
 package com.jonnyLee;
 
 import junit.framework.Test;
