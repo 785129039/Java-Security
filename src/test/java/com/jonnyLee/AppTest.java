@@ -8,12 +8,20 @@ import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
+import java.util.concurrent.Executor;
+
 /**
  * Unit test for simple App.
  */
 public class AppTest 
     extends TestCase
 {
+
+    public static void main(String[] args) {
+
+    }
+
+
     /**
      * Create the test case
      *
